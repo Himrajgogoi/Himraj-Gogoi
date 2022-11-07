@@ -49,4 +49,10 @@ Some of my hosted projects are:
 
 Want to collaborate? Reach me at: 
 
-[LinkedIn](https://www.linkedin.com/in/himraj-gogoi/) &nbsp;&nbsp;  [📬Gmail](mailto:himrajgogoi2001@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/himraj-gogoi/) &nbsp;&nbsp;  [📬Gmail](mailto:himrajgogoi2001@gmail.com) 
+
+Want to know more? Checkout my portfolio website:
+
+[Himraj Gogoi](https://himrajgogoi.vercel.app/)
+
+Won't be giving goodbyes just yet comrade !
